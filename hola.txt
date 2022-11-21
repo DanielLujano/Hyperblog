@@ -1,3 +1,5 @@
 hola esto solo es una prueba de como utilizar Git
 
+se me olvidaron estas pequeñas modificaciones xD
+
 y de como subir repositorios de mis proyectos
