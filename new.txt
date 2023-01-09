@@ -1,3 +1,5 @@
 this is a new project of my own
 
-learning english and git 
+learning english and git.
+
+Ahora estaremos aprovechando la funcionalidad de GIT, para hacer un repositorio de un proyecto real utilizando varias tecnologias y lenguajes
